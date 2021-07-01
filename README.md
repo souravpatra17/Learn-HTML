@@ -15,7 +15,7 @@ HTML manual for Future reference
 -> Because, index.html is a special filename which is presented when the website root address is typed.
 
 ->My First Web Page(index.html):
-
+<pre>
  <!DOCTYPE html>->Specifies This is an Html5 docoument
 <html>->root of an html page
 <head>->contains page metadata
@@ -28,7 +28,7 @@ HTML manual for Future reference
     <p>This is a paragraph</p>->paragraph tag
 </body>->closing body tag
 </html>
-
+</pre>
 *Important Notes:-
 ->Head and Body tags are children of HTML tag.
 ->HTML is the parent of Head and Body tags.
